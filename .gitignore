@@ -1,0 +1,13 @@
+﻿# Secrets — NUNCA subir a git
+.env
+*.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
